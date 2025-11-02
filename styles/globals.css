@@ -1,0 +1,17 @@
+:root {
+  color-scheme: light;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Inter", Helvetica, Arial, sans-serif;
+  background-color: #f5f6f8;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
